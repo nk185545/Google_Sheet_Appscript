@@ -2,7 +2,7 @@
 
 Reference : https://www.benlcollins.com/apps-script/oauth-github/
 
-#OAuth workflow steps
+# OAuth workflow steps
 
 **Step 1** . Open a new Google Sheet and open up Script Editor. As per usual, you can clear out the boilerplate myFunction() code.
 
